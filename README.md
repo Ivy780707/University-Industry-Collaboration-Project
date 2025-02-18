@@ -48,10 +48,10 @@
 1. **安裝必要套件**
     ```bash
     pip install -r requirements.txt
-2.**開啟 Jupyter Notebook** 
+2. **開啟 Jupyter Notebook** 
     ```bash
     jupyter notebook
-3.**進行模型訓練**
+3. **進行模型訓練**
     ```bash
     python src/train_model.py
 

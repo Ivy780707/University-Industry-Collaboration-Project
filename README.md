@@ -58,12 +58,12 @@
 ---
 
 ## 4️⃣ 專案架構 (Project Structure)
-📂 KDAN_Project/
+```plaintext
+📂 ADNEX_Project/
 │── 📂 notebooks/            # 數據分析 Jupyter Notebook (範例數據)
 │── 📂 src/                  # Python 主要程式碼
 │── 📄 requirements.txt      # 需要安裝的 Python 套件
 │── 📄 README.md             # 本文件
-
 
 ---
 

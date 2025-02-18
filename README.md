@@ -44,6 +44,10 @@ python src/train_model.py
 ```plaintext
 📂 Project/
 │── 📂 notebooks/            # Jupyter Notebook for data analysis
+    │── 📄 data.ipynb        #EDA process
+    │── 📄 mock_order.csv    #mock data of orders
+    │── 📄 mock_member.csv   #mock data of members
+    │── 📄 mock_behavior_202207.csv  ##mock data of customer behaviors in 2022/07
 │── 📂 src/                  # Python scripts for model training
 │── 📄 requirements.txt      # Python dependencies
 │── 📄 README.md             # This document

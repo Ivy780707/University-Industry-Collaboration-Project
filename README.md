@@ -54,7 +54,7 @@
 3. **進行模型訓練**
     ```bash
     python src/train_model.py
-
+    
 ---
 
 ## 4️⃣ 專案架構 (Project Structure)
@@ -64,7 +64,7 @@
 │── 📂 src/                  # Python 主要程式碼
 │── 📄 requirements.txt      # 需要安裝的 Python 套件
 │── 📄 README.md             # 本文件
-
+```
 ---
 
 ## 5️⃣ 研究成果 (Findings & Insights)

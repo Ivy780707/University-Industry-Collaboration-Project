@@ -1,0 +1,501 @@
+sku,category,item_name,price
+SKU_1,Clothing,Product_1,195.8
+SKU_2,Toys,Product_2,128.29
+SKU_3,Clothing,Product_3,114.71
+SKU_4,Books,Product_4,54.16
+SKU_5,Clothing,Product_5,123.21
+SKU_6,Books,Product_6,128.22
+SKU_7,Toys,Product_7,18.22
+SKU_8,Clothing,Product_8,52.09
+SKU_9,Home & Kitchen,Product_9,86.7
+SKU_10,Toys,Product_10,93.34
+SKU_11,Clothing,Product_11,124.46
+SKU_12,Home & Kitchen,Product_12,37.2
+SKU_13,Clothing,Product_13,79.37
+SKU_14,Clothing,Product_14,31.65
+SKU_15,Electronics,Product_15,22.55
+SKU_16,Clothing,Product_16,150.17
+SKU_17,Toys,Product_17,26.1
+SKU_18,Clothing,Product_18,6.62
+SKU_19,Toys,Product_19,51.2
+SKU_20,Electronics,Product_20,15.56
+SKU_21,Clothing,Product_21,61.5
+SKU_22,Home & Kitchen,Product_22,158.09
+SKU_23,Home & Kitchen,Product_23,56.85
+SKU_24,Electronics,Product_24,119.44
+SKU_25,Books,Product_25,124.98
+SKU_26,Electronics,Product_26,128.51
+SKU_27,Books,Product_27,144.36
+SKU_28,Clothing,Product_28,129.34
+SKU_29,Home & Kitchen,Product_29,145.2
+SKU_30,Home & Kitchen,Product_30,5.8
+SKU_31,Books,Product_31,22.34
+SKU_32,Electronics,Product_32,51.13
+SKU_33,Clothing,Product_33,19.59
+SKU_34,Books,Product_34,9.16
+SKU_35,Toys,Product_35,122.73
+SKU_36,Electronics,Product_36,89.94
+SKU_37,Clothing,Product_37,43.28
+SKU_38,Books,Product_38,135.05
+SKU_39,Toys,Product_39,154.0
+SKU_40,Clothing,Product_40,145.32
+SKU_41,Toys,Product_41,5.18
+SKU_42,Home & Kitchen,Product_42,31.76
+SKU_43,Home & Kitchen,Product_43,170.26
+SKU_44,Home & Kitchen,Product_44,109.11
+SKU_45,Electronics,Product_45,100.11
+SKU_46,Books,Product_46,58.93
+SKU_47,Home & Kitchen,Product_47,34.18
+SKU_48,Home & Kitchen,Product_48,159.84
+SKU_49,Home & Kitchen,Product_49,10.91
+SKU_50,Toys,Product_50,86.52
+SKU_51,Electronics,Product_51,23.97
+SKU_52,Electronics,Product_52,135.84
+SKU_53,Books,Product_53,126.12
+SKU_54,Electronics,Product_54,162.16
+SKU_55,Clothing,Product_55,100.05
+SKU_56,Toys,Product_56,122.77
+SKU_57,Electronics,Product_57,36.27
+SKU_58,Clothing,Product_58,25.94
+SKU_59,Home & Kitchen,Product_59,31.38
+SKU_60,Toys,Product_60,145.29
+SKU_61,Toys,Product_61,24.39
+SKU_62,Clothing,Product_62,155.03
+SKU_63,Toys,Product_63,144.38
+SKU_64,Toys,Product_64,81.38
+SKU_65,Clothing,Product_65,136.77
+SKU_66,Toys,Product_66,15.68
+SKU_67,Books,Product_67,83.05
+SKU_68,Home & Kitchen,Product_68,133.3
+SKU_69,Toys,Product_69,94.23
+SKU_70,Books,Product_70,39.98
+SKU_71,Books,Product_71,152.05
+SKU_72,Toys,Product_72,147.04
+SKU_73,Clothing,Product_73,137.25
+SKU_74,Books,Product_74,24.71
+SKU_75,Books,Product_75,113.78
+SKU_76,Toys,Product_76,92.11
+SKU_77,Clothing,Product_77,168.47
+SKU_78,Toys,Product_78,130.23
+SKU_79,Electronics,Product_79,41.39
+SKU_80,Home & Kitchen,Product_80,116.37
+SKU_81,Toys,Product_81,15.81
+SKU_82,Electronics,Product_82,103.45
+SKU_83,Home & Kitchen,Product_83,144.91
+SKU_84,Home & Kitchen,Product_84,46.29
+SKU_85,Electronics,Product_85,180.2
+SKU_86,Home & Kitchen,Product_86,47.23
+SKU_87,Home & Kitchen,Product_87,138.26
+SKU_88,Electronics,Product_88,151.47
+SKU_89,Clothing,Product_89,109.15
+SKU_90,Books,Product_90,169.44
+SKU_91,Electronics,Product_91,47.66
+SKU_92,Toys,Product_92,115.42
+SKU_93,Books,Product_93,162.93
+SKU_94,Books,Product_94,63.06
+SKU_95,Home & Kitchen,Product_95,104.18
+SKU_96,Home & Kitchen,Product_96,155.37
+SKU_97,Home & Kitchen,Product_97,35.5
+SKU_98,Books,Product_98,149.6
+SKU_99,Home & Kitchen,Product_99,178.33
+SKU_100,Books,Product_100,53.11
+SKU_101,Books,Product_101,134.09
+SKU_102,Home & Kitchen,Product_102,26.55
+SKU_103,Books,Product_103,15.58
+SKU_104,Home & Kitchen,Product_104,57.53
+SKU_105,Clothing,Product_105,120.64
+SKU_106,Home & Kitchen,Product_106,133.0
+SKU_107,Clothing,Product_107,186.7
+SKU_108,Books,Product_108,47.51
+SKU_109,Clothing,Product_109,49.28
+SKU_110,Electronics,Product_110,138.86
+SKU_111,Electronics,Product_111,121.49
+SKU_112,Electronics,Product_112,161.62
+SKU_113,Clothing,Product_113,193.85
+SKU_114,Books,Product_114,186.45
+SKU_115,Books,Product_115,97.13
+SKU_116,Clothing,Product_116,164.04
+SKU_117,Clothing,Product_117,67.4
+SKU_118,Clothing,Product_118,56.97
+SKU_119,Books,Product_119,105.09
+SKU_120,Clothing,Product_120,149.67
+SKU_121,Clothing,Product_121,10.6
+SKU_122,Home & Kitchen,Product_122,11.14
+SKU_123,Home & Kitchen,Product_123,168.27
+SKU_124,Toys,Product_124,88.28
+SKU_125,Electronics,Product_125,137.68
+SKU_126,Clothing,Product_126,99.76
+SKU_127,Books,Product_127,94.62
+SKU_128,Home & Kitchen,Product_128,146.88
+SKU_129,Clothing,Product_129,23.86
+SKU_130,Electronics,Product_130,187.07
+SKU_131,Books,Product_131,138.98
+SKU_132,Home & Kitchen,Product_132,100.72
+SKU_133,Toys,Product_133,163.19
+SKU_134,Books,Product_134,108.75
+SKU_135,Books,Product_135,32.73
+SKU_136,Books,Product_136,54.62
+SKU_137,Toys,Product_137,127.47
+SKU_138,Electronics,Product_138,41.02
+SKU_139,Home & Kitchen,Product_139,147.83
+SKU_140,Home & Kitchen,Product_140,150.13
+SKU_141,Home & Kitchen,Product_141,11.5
+SKU_142,Home & Kitchen,Product_142,92.0
+SKU_143,Books,Product_143,9.8
+SKU_144,Home & Kitchen,Product_144,188.14
+SKU_145,Books,Product_145,158.87
+SKU_146,Books,Product_146,117.12
+SKU_147,Books,Product_147,37.85
+SKU_148,Home & Kitchen,Product_148,173.94
+SKU_149,Clothing,Product_149,51.82
+SKU_150,Clothing,Product_150,172.96
+SKU_151,Electronics,Product_151,55.3
+SKU_152,Books,Product_152,184.31
+SKU_153,Books,Product_153,89.2
+SKU_154,Books,Product_154,8.66
+SKU_155,Books,Product_155,91.48
+SKU_156,Home & Kitchen,Product_156,74.6
+SKU_157,Toys,Product_157,63.69
+SKU_158,Books,Product_158,154.31
+SKU_159,Books,Product_159,5.46
+SKU_160,Books,Product_160,184.75
+SKU_161,Clothing,Product_161,100.85
+SKU_162,Toys,Product_162,96.06
+SKU_163,Home & Kitchen,Product_163,160.43
+SKU_164,Clothing,Product_164,95.02
+SKU_165,Electronics,Product_165,93.59
+SKU_166,Toys,Product_166,23.43
+SKU_167,Clothing,Product_167,14.09
+SKU_168,Electronics,Product_168,133.07
+SKU_169,Home & Kitchen,Product_169,102.13
+SKU_170,Books,Product_170,51.23
+SKU_171,Home & Kitchen,Product_171,114.81
+SKU_172,Home & Kitchen,Product_172,19.9
+SKU_173,Electronics,Product_173,170.57
+SKU_174,Clothing,Product_174,128.64
+SKU_175,Electronics,Product_175,100.17
+SKU_176,Toys,Product_176,144.81
+SKU_177,Home & Kitchen,Product_177,61.65
+SKU_178,Books,Product_178,117.24
+SKU_179,Home & Kitchen,Product_179,41.45
+SKU_180,Electronics,Product_180,45.52
+SKU_181,Books,Product_181,125.68
+SKU_182,Electronics,Product_182,115.11
+SKU_183,Books,Product_183,178.7
+SKU_184,Books,Product_184,80.64
+SKU_185,Clothing,Product_185,101.11
+SKU_186,Toys,Product_186,96.35
+SKU_187,Home & Kitchen,Product_187,44.53
+SKU_188,Home & Kitchen,Product_188,111.03
+SKU_189,Toys,Product_189,79.22
+SKU_190,Electronics,Product_190,116.65
+SKU_191,Home & Kitchen,Product_191,104.54
+SKU_192,Toys,Product_192,112.19
+SKU_193,Electronics,Product_193,77.5
+SKU_194,Books,Product_194,6.85
+SKU_195,Toys,Product_195,171.14
+SKU_196,Books,Product_196,133.38
+SKU_197,Electronics,Product_197,141.6
+SKU_198,Home & Kitchen,Product_198,37.08
+SKU_199,Books,Product_199,171.29
+SKU_200,Electronics,Product_200,160.73
+SKU_201,Clothing,Product_201,85.39
+SKU_202,Clothing,Product_202,124.54
+SKU_203,Clothing,Product_203,47.32
+SKU_204,Home & Kitchen,Product_204,94.1
+SKU_205,Toys,Product_205,66.84
+SKU_206,Toys,Product_206,21.42
+SKU_207,Clothing,Product_207,57.81
+SKU_208,Electronics,Product_208,6.17
+SKU_209,Toys,Product_209,125.89
+SKU_210,Books,Product_210,61.51
+SKU_211,Electronics,Product_211,121.31
+SKU_212,Electronics,Product_212,51.42
+SKU_213,Electronics,Product_213,63.56
+SKU_214,Books,Product_214,10.5
+SKU_215,Books,Product_215,62.64
+SKU_216,Electronics,Product_216,15.02
+SKU_217,Clothing,Product_217,110.89
+SKU_218,Home & Kitchen,Product_218,173.77
+SKU_219,Books,Product_219,176.95
+SKU_220,Home & Kitchen,Product_220,154.89
+SKU_221,Toys,Product_221,149.14
+SKU_222,Home & Kitchen,Product_222,38.64
+SKU_223,Books,Product_223,155.87
+SKU_224,Electronics,Product_224,28.78
+SKU_225,Clothing,Product_225,33.15
+SKU_226,Toys,Product_226,68.57
+SKU_227,Home & Kitchen,Product_227,112.72
+SKU_228,Toys,Product_228,53.01
+SKU_229,Clothing,Product_229,90.52
+SKU_230,Clothing,Product_230,54.25
+SKU_231,Books,Product_231,104.67
+SKU_232,Toys,Product_232,69.1
+SKU_233,Home & Kitchen,Product_233,50.88
+SKU_234,Toys,Product_234,185.89
+SKU_235,Clothing,Product_235,133.61
+SKU_236,Electronics,Product_236,91.05
+SKU_237,Home & Kitchen,Product_237,153.42
+SKU_238,Clothing,Product_238,135.34
+SKU_239,Books,Product_239,137.16
+SKU_240,Toys,Product_240,162.59
+SKU_241,Books,Product_241,60.67
+SKU_242,Home & Kitchen,Product_242,24.05
+SKU_243,Clothing,Product_243,149.16
+SKU_244,Home & Kitchen,Product_244,27.55
+SKU_245,Electronics,Product_245,174.79
+SKU_246,Toys,Product_246,51.21
+SKU_247,Clothing,Product_247,25.04
+SKU_248,Books,Product_248,199.77
+SKU_249,Toys,Product_249,51.32
+SKU_250,Clothing,Product_250,65.15
+SKU_251,Toys,Product_251,46.65
+SKU_252,Clothing,Product_252,17.93
+SKU_253,Clothing,Product_253,27.82
+SKU_254,Books,Product_254,101.64
+SKU_255,Toys,Product_255,45.96
+SKU_256,Books,Product_256,116.01
+SKU_257,Electronics,Product_257,199.27
+SKU_258,Clothing,Product_258,102.07
+SKU_259,Books,Product_259,147.93
+SKU_260,Home & Kitchen,Product_260,63.7
+SKU_261,Books,Product_261,92.53
+SKU_262,Toys,Product_262,144.42
+SKU_263,Electronics,Product_263,134.55
+SKU_264,Home & Kitchen,Product_264,149.51
+SKU_265,Books,Product_265,197.13
+SKU_266,Electronics,Product_266,174.49
+SKU_267,Clothing,Product_267,38.64
+SKU_268,Clothing,Product_268,88.61
+SKU_269,Books,Product_269,133.44
+SKU_270,Home & Kitchen,Product_270,49.98
+SKU_271,Home & Kitchen,Product_271,36.85
+SKU_272,Clothing,Product_272,138.2
+SKU_273,Home & Kitchen,Product_273,153.42
+SKU_274,Electronics,Product_274,43.45
+SKU_275,Clothing,Product_275,184.49
+SKU_276,Home & Kitchen,Product_276,71.74
+SKU_277,Books,Product_277,157.34
+SKU_278,Home & Kitchen,Product_278,189.15
+SKU_279,Toys,Product_279,96.28
+SKU_280,Clothing,Product_280,126.58
+SKU_281,Electronics,Product_281,170.79
+SKU_282,Clothing,Product_282,61.19
+SKU_283,Toys,Product_283,85.44
+SKU_284,Home & Kitchen,Product_284,191.79
+SKU_285,Clothing,Product_285,189.89
+SKU_286,Clothing,Product_286,196.83
+SKU_287,Toys,Product_287,62.12
+SKU_288,Toys,Product_288,123.63
+SKU_289,Books,Product_289,20.89
+SKU_290,Books,Product_290,139.16
+SKU_291,Toys,Product_291,132.53
+SKU_292,Home & Kitchen,Product_292,50.12
+SKU_293,Electronics,Product_293,116.07
+SKU_294,Books,Product_294,85.81
+SKU_295,Home & Kitchen,Product_295,12.46
+SKU_296,Home & Kitchen,Product_296,148.6
+SKU_297,Electronics,Product_297,44.21
+SKU_298,Electronics,Product_298,151.65
+SKU_299,Toys,Product_299,66.04
+SKU_300,Toys,Product_300,30.51
+SKU_301,Clothing,Product_301,57.87
+SKU_302,Home & Kitchen,Product_302,47.11
+SKU_303,Books,Product_303,178.55
+SKU_304,Home & Kitchen,Product_304,85.66
+SKU_305,Electronics,Product_305,108.48
+SKU_306,Home & Kitchen,Product_306,25.03
+SKU_307,Clothing,Product_307,20.26
+SKU_308,Toys,Product_308,77.47
+SKU_309,Books,Product_309,121.11
+SKU_310,Books,Product_310,13.76
+SKU_311,Toys,Product_311,159.6
+SKU_312,Toys,Product_312,46.45
+SKU_313,Books,Product_313,54.16
+SKU_314,Clothing,Product_314,88.59
+SKU_315,Toys,Product_315,96.19
+SKU_316,Books,Product_316,6.27
+SKU_317,Toys,Product_317,144.12
+SKU_318,Clothing,Product_318,161.28
+SKU_319,Toys,Product_319,153.75
+SKU_320,Toys,Product_320,160.4
+SKU_321,Home & Kitchen,Product_321,63.02
+SKU_322,Home & Kitchen,Product_322,197.54
+SKU_323,Books,Product_323,53.12
+SKU_324,Books,Product_324,75.34
+SKU_325,Toys,Product_325,134.01
+SKU_326,Books,Product_326,194.07
+SKU_327,Home & Kitchen,Product_327,74.88
+SKU_328,Books,Product_328,42.86
+SKU_329,Electronics,Product_329,83.77
+SKU_330,Home & Kitchen,Product_330,183.05
+SKU_331,Electronics,Product_331,199.8
+SKU_332,Books,Product_332,122.19
+SKU_333,Books,Product_333,117.78
+SKU_334,Clothing,Product_334,25.96
+SKU_335,Books,Product_335,73.89
+SKU_336,Clothing,Product_336,112.53
+SKU_337,Electronics,Product_337,86.95
+SKU_338,Clothing,Product_338,7.05
+SKU_339,Toys,Product_339,174.06
+SKU_340,Electronics,Product_340,160.22
+SKU_341,Clothing,Product_341,153.87
+SKU_342,Clothing,Product_342,178.27
+SKU_343,Home & Kitchen,Product_343,111.3
+SKU_344,Electronics,Product_344,62.2
+SKU_345,Toys,Product_345,128.71
+SKU_346,Toys,Product_346,47.22
+SKU_347,Books,Product_347,68.4
+SKU_348,Toys,Product_348,191.23
+SKU_349,Books,Product_349,11.54
+SKU_350,Clothing,Product_350,174.74
+SKU_351,Electronics,Product_351,160.8
+SKU_352,Clothing,Product_352,144.74
+SKU_353,Home & Kitchen,Product_353,101.99
+SKU_354,Home & Kitchen,Product_354,168.21
+SKU_355,Books,Product_355,162.76
+SKU_356,Electronics,Product_356,144.27
+SKU_357,Toys,Product_357,53.99
+SKU_358,Books,Product_358,180.72
+SKU_359,Books,Product_359,29.31
+SKU_360,Electronics,Product_360,58.72
+SKU_361,Toys,Product_361,180.51
+SKU_362,Clothing,Product_362,105.8
+SKU_363,Electronics,Product_363,97.38
+SKU_364,Books,Product_364,168.04
+SKU_365,Home & Kitchen,Product_365,97.09
+SKU_366,Home & Kitchen,Product_366,56.98
+SKU_367,Books,Product_367,33.45
+SKU_368,Home & Kitchen,Product_368,96.25
+SKU_369,Home & Kitchen,Product_369,91.37
+SKU_370,Books,Product_370,42.84
+SKU_371,Toys,Product_371,40.49
+SKU_372,Books,Product_372,115.75
+SKU_373,Toys,Product_373,153.98
+SKU_374,Books,Product_374,165.21
+SKU_375,Home & Kitchen,Product_375,59.58
+SKU_376,Clothing,Product_376,10.44
+SKU_377,Books,Product_377,83.1
+SKU_378,Home & Kitchen,Product_378,126.42
+SKU_379,Toys,Product_379,104.21
+SKU_380,Toys,Product_380,6.79
+SKU_381,Home & Kitchen,Product_381,67.19
+SKU_382,Electronics,Product_382,198.8
+SKU_383,Toys,Product_383,152.68
+SKU_384,Clothing,Product_384,134.58
+SKU_385,Clothing,Product_385,80.98
+SKU_386,Home & Kitchen,Product_386,49.78
+SKU_387,Toys,Product_387,175.75
+SKU_388,Books,Product_388,118.86
+SKU_389,Toys,Product_389,125.48
+SKU_390,Electronics,Product_390,5.92
+SKU_391,Home & Kitchen,Product_391,100.64
+SKU_392,Home & Kitchen,Product_392,17.47
+SKU_393,Clothing,Product_393,165.92
+SKU_394,Books,Product_394,173.42
+SKU_395,Electronics,Product_395,72.49
+SKU_396,Clothing,Product_396,37.3
+SKU_397,Home & Kitchen,Product_397,173.09
+SKU_398,Books,Product_398,39.11
+SKU_399,Clothing,Product_399,165.94
+SKU_400,Clothing,Product_400,194.03
+SKU_401,Books,Product_401,26.08
+SKU_402,Toys,Product_402,80.7
+SKU_403,Electronics,Product_403,7.51
+SKU_404,Home & Kitchen,Product_404,61.42
+SKU_405,Home & Kitchen,Product_405,120.81
+SKU_406,Electronics,Product_406,128.43
+SKU_407,Home & Kitchen,Product_407,36.23
+SKU_408,Electronics,Product_408,39.24
+SKU_409,Clothing,Product_409,79.52
+SKU_410,Clothing,Product_410,18.03
+SKU_411,Books,Product_411,50.14
+SKU_412,Electronics,Product_412,27.59
+SKU_413,Home & Kitchen,Product_413,38.62
+SKU_414,Books,Product_414,196.54
+SKU_415,Books,Product_415,38.79
+SKU_416,Toys,Product_416,197.64
+SKU_417,Home & Kitchen,Product_417,116.69
+SKU_418,Toys,Product_418,101.65
+SKU_419,Electronics,Product_419,79.32
+SKU_420,Home & Kitchen,Product_420,124.78
+SKU_421,Clothing,Product_421,154.58
+SKU_422,Toys,Product_422,181.46
+SKU_423,Books,Product_423,6.66
+SKU_424,Home & Kitchen,Product_424,118.27
+SKU_425,Home & Kitchen,Product_425,22.54
+SKU_426,Home & Kitchen,Product_426,183.97
+SKU_427,Books,Product_427,156.78
+SKU_428,Clothing,Product_428,148.85
+SKU_429,Home & Kitchen,Product_429,60.6
+SKU_430,Clothing,Product_430,102.86
+SKU_431,Electronics,Product_431,27.5
+SKU_432,Books,Product_432,100.99
+SKU_433,Electronics,Product_433,131.15
+SKU_434,Toys,Product_434,196.34
+SKU_435,Electronics,Product_435,123.75
+SKU_436,Home & Kitchen,Product_436,197.64
+SKU_437,Books,Product_437,167.97
+SKU_438,Toys,Product_438,50.05
+SKU_439,Home & Kitchen,Product_439,145.45
+SKU_440,Home & Kitchen,Product_440,12.05
+SKU_441,Toys,Product_441,9.65
+SKU_442,Home & Kitchen,Product_442,44.08
+SKU_443,Clothing,Product_443,57.33
+SKU_444,Books,Product_444,131.12
+SKU_445,Electronics,Product_445,137.19
+SKU_446,Toys,Product_446,60.58
+SKU_447,Books,Product_447,46.48
+SKU_448,Toys,Product_448,71.67
+SKU_449,Home & Kitchen,Product_449,167.59
+SKU_450,Electronics,Product_450,196.83
+SKU_451,Books,Product_451,53.47
+SKU_452,Home & Kitchen,Product_452,67.62
+SKU_453,Electronics,Product_453,63.51
+SKU_454,Electronics,Product_454,155.33
+SKU_455,Electronics,Product_455,96.13
+SKU_456,Clothing,Product_456,180.96
+SKU_457,Electronics,Product_457,142.8
+SKU_458,Clothing,Product_458,102.1
+SKU_459,Electronics,Product_459,73.62
+SKU_460,Electronics,Product_460,12.92
+SKU_461,Books,Product_461,178.47
+SKU_462,Books,Product_462,37.15
+SKU_463,Clothing,Product_463,147.06
+SKU_464,Books,Product_464,198.05
+SKU_465,Books,Product_465,76.78
+SKU_466,Toys,Product_466,46.85
+SKU_467,Electronics,Product_467,172.28
+SKU_468,Toys,Product_468,180.6
+SKU_469,Books,Product_469,149.98
+SKU_470,Electronics,Product_470,183.73
+SKU_471,Clothing,Product_471,181.2
+SKU_472,Clothing,Product_472,129.02
+SKU_473,Home & Kitchen,Product_473,6.76
+SKU_474,Home & Kitchen,Product_474,91.97
+SKU_475,Books,Product_475,97.08
+SKU_476,Electronics,Product_476,198.42
+SKU_477,Books,Product_477,196.9
+SKU_478,Toys,Product_478,191.53
+SKU_479,Clothing,Product_479,9.73
+SKU_480,Toys,Product_480,146.42
+SKU_481,Books,Product_481,170.03
+SKU_482,Books,Product_482,112.27
+SKU_483,Clothing,Product_483,39.2
+SKU_484,Clothing,Product_484,47.77
+SKU_485,Toys,Product_485,101.65
+SKU_486,Home & Kitchen,Product_486,70.88
+SKU_487,Books,Product_487,92.62
+SKU_488,Clothing,Product_488,102.35
+SKU_489,Books,Product_489,10.26
+SKU_490,Electronics,Product_490,33.85
+SKU_491,Toys,Product_491,141.1
+SKU_492,Home & Kitchen,Product_492,173.11
+SKU_493,Electronics,Product_493,98.06
+SKU_494,Books,Product_494,131.31
+SKU_495,Books,Product_495,59.5
+SKU_496,Home & Kitchen,Product_496,157.38
+SKU_497,Clothing,Product_497,101.76
+SKU_498,Clothing,Product_498,176.58
+SKU_499,Clothing,Product_499,40.32
+SKU_500,Electronics,Product_500,103.63

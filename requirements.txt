@@ -1,17 +1,8 @@
-import pandas as pd
-import numpy as np
-import glob
-from datetime import datetime
-
-import seaborn as sns
-import matplotlib.pyplot as plt
-from matplotlib import font_manager as fm
-
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.impute import SimpleImputer
-from sklearn.metrics import classification_report, confusion_matrix
-from scipy.stats import chi2_contingency
+pandas
+numpy
+glob2
+datetime
+seaborn
+matplotlib
+scikit-learn
+scipy
